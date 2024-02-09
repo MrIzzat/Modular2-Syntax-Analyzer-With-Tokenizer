@@ -1,0 +1,72 @@
+module all;
+const
+  pi=3.14;
+  intmax=32767;
+
+var
+  i,d,gh,eqw,hy,d,h,as:integer;
+  c,eqw,adsfgh:char;
+  r:real;
+
+  procedure p1;
+    begin
+        readint(fadf,adfadf33,aqdfads,fvsg,ss,as,ef);
+        readreal(das,dfgdf);
+        readchar(dfgdgdfgfd,dfgd4423432,sda12);
+        readln;
+
+        loop
+            writeint(fadf,adfadf33,aqdfads,fvsg,ss,143,2342;;;
+            writereal(324243234,dfgdf);;
+            writechar(dfgdgdfgfd,dfgd4423432,22);;;
+            writeln
+        until i = c;
+
+        loop
+            writeint(fadf,adfadf33,aqdfads,fvsg,ss,143,2342);;;
+            writereal(324243234,dfgdf);;
+            writechar(dfgdgdfgfd,dfgd4423432,22);;;
+            writeln;
+        until i |= 0;
+
+        while 1 < 1 do
+            call p1;
+            writechar(dfgdgdfgfd,dfgd4423432,22)
+        end;
+
+        while 1 <= 1 do
+            call p1;
+            writechar(dfgdgdfgfd,dfgd4423432,22);
+        end;
+
+        name := hello*324+sgsfgFS+32423;
+        hi := 32423 * 32423 + 32423 - (12 * 4 div 12 mod 3 / 2);
+
+        if 50 > h then
+        elseif 50 >= h then
+        else
+
+        end;
+
+        if 50 >= h then
+            writeln
+        elseif 50 >= h then
+            writeln
+        else
+            exit
+        end;
+
+        if 50 <= h then
+            writeln;;;;;
+        elseif 50 >= h then
+            writeln;
+        else
+            exit
+        end
+    end
+  p1;
+
+ begin
+    call p1;
+ end
+ all.
